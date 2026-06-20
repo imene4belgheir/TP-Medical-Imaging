@@ -1,0 +1,11 @@
+# models
+*.h5
+*.keras
+
+# datasets
+dataset/
+data/
+*.zip
+
+# python cache
+__pycache__/
